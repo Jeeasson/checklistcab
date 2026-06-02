@@ -1,0 +1,8 @@
+{
+"name":"Checklist CDAP",
+"short_name":"CDAP",
+"display":"standalone",
+"start_url":"./",
+"background_color":"#ffffff",
+"theme_color":"#0f172a"
+}
